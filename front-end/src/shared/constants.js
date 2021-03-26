@@ -1,0 +1,1 @@
+export const maxDebt = 3;
